@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there, It's all About Web Development. More specifically, the Front-end part.
+Hello there, I'm a Front-end Developer!
 
 
 ## 🌐 Socials:

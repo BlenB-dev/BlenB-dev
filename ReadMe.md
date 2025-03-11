@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there, I'm Front-end Developer
+Hello there, I'm a Front-end Developer
 
 
 ## 🌐 Socials:
